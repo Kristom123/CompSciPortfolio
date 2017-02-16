@@ -5,7 +5,7 @@ body{
 }
 
 h1{
-color: purple;
+color: indigo;
 text-decoration: underline;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino;
 }
@@ -18,9 +18,10 @@ ul{
 
 li{
   float: left;
+  color: white;
 }
 a{
-  display: block
+  display: block;
     padding: 8px;
-  background-color: white;
+  background-color: purple;
 }
