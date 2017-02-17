@@ -18,7 +18,7 @@ ul{
 }
 
 li{
-  float: center;
+  float: left;
 }
 a{
   display: block;
@@ -31,7 +31,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: purple;
-    background-color: #333;
+    background-color: purple;
 }
 
 li a {
