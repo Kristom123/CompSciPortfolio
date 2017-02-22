@@ -44,7 +44,6 @@ li a {
 }
 
 img {
-  float: initial;
   border-style: solid;
   border-width: medium;
   border-color: purple;
