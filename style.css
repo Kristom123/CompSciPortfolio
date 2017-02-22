@@ -2,6 +2,7 @@ body{
   color: indigo;
   font-family: "Palatino Linotype","Book Antiqua", Palatino;
   background-color: lavender;
+  float: left;
 }
 
 h1{
@@ -43,6 +44,6 @@ li a {
 }
 
 images {
-  margin: center;
+  float: center;
 
 
