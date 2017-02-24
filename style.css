@@ -60,6 +60,11 @@ td, th {
     padding: 8px;
 }
 
+table, th, td {
+    border: 1px solid purple;
+    border-collapse: collapse;
+}
+
 tr:nth-child(even) {
     background-color:lavender;
 }
