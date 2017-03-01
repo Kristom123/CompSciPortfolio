@@ -68,3 +68,7 @@ table, th, td {
 tr:nth-child(even) {
     background-color:lavender;
 }
+
+link {
+  color: white;
+}
